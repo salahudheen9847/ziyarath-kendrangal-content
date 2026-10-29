@@ -110,6 +110,16 @@
       },
       "path": "madhyapradesh/ziyaraths.json",
       "count": 15
+    },
+    {
+      "id": "punjab_haryana",
+      "name": {
+        "malayalam": "പഞ്ചാബ് & ഹരിയാന",
+        "english": "Punjab & Haryana",
+        "arabic": "البنجاب وهاريانا"
+      },
+      "path": "punjab/ziyaraths.json",
+      "count": 15
     }
   ]
 }
