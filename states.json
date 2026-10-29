@@ -50,6 +50,16 @@
       },
       "path": "maharashtra/ziyaraths.json",
       "count": 15
+    },
+    {
+      "id": "northindia",
+      "name": {
+        "malayalam": "ഡൽഹി & ഉത്തരേന്ത്യ",
+        "english": "Delhi & North India",
+        "arabic": "دلهي وشمال الهند"
+      },
+      "path": "northindia/ziyaraths.json",
+      "count": 15
     }
   ]
 }
