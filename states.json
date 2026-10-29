@@ -170,6 +170,16 @@
       },
       "path": "islands_central/ziyaraths.json",
       "count": 15
+    },
+    {
+      "id": "international",
+      "name": {
+        "malayalam": "ആഗോള പുണ്യകേന്ദ്രങ്ങൾ",
+        "english": "International Holy Shrines",
+        "arabic": "المزارات والمقامات العالمية"
+      },
+      "path": "international/ziyaraths.json",
+      "count": 15
     }
   ]
 }
