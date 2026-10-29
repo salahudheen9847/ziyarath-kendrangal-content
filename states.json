@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "states": [
+    {
+      "id": "kerala",
+      "name": {
+        "malayalam": "കേരളം",
+        "english": "Kerala",
+        "arabic": "كيرلا"
+      },
+      "path": "kerala/ziyaraths.json",
+      "count": 30
+    },
+    {
+      "id": "karnataka",
+      "name": {
+        "malayalam": "കർണാടക",
+        "english": "Karnataka",
+        "arabic": "كارناتاكا"
+      },
+      "path": "karnataka/ziyaraths.json",
+      "count": 15
+    }
+  ]
+}
