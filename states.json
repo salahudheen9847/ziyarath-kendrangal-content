@@ -130,6 +130,16 @@
       },
       "path": "northeast/ziyaraths.json",
       "count": 15
+    },
+    {
+      "id": "rajasthan",
+      "name": {
+        "malayalam": "രാജസ്ഥാൻ",
+        "english": "Rajasthan",
+        "arabic": "راجستان"
+      },
+      "path": "rajasthan/ziyaraths.json",
+      "count": 15
     }
   ]
 }
