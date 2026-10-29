@@ -1,3 +1,4 @@
+
 {
   "version": 1,
   "ziyaraths": [
@@ -12,6 +13,19 @@
       "createdBy": "Salahudheen",
       "createdAt": "2026-10-29T06:59:31.720Z",
       "updatedAt": "2026-10-29T06:59:31.720Z",
+      "status": "active"
+    },
+    {
+      "id": "1793257200000",
+      "name": "മമ്പുറം മഖാം ശരീഫ്",
+      "district": "മലപ്പുറം",
+      "place": "മമ്പുറം (Mamburam), തിരൂരങ്ങാടി",
+      "address": "Mamburam Maqam Shareef, Mamburam, Tirurangadi, Malappuram, Kerala, India",
+      "description": "മമ്പുറം മഖാം ശരീഫ് കേരളത്തിലെ മലപ്പുറം ജില്ലയിലെ തിരൂരങ്ങാടിക്കടുത്ത് സ്ഥിതി ചെയ്യുന്ന പ്രസിദ്ധമായ ചരിത്ര-ആത്മീയ കേന്ദ്രമാണ്. മമ്പുറം തങ്ങൾ എന്നറിയപ്പെടുന്ന സയ്യിദ് അലവി തങ്ങളുടെ മഖാം ഇവിടെയാണ്. മലബാറിലെ ഇസ്‌ലാമിക ചരിത്രത്തിലും മത-സാമൂഹിക പ്രവർത്തനങ്ങളിലും മമ്പുറത്തിന് പ്രധാന സ്ഥാനമുണ്ട്. മമ്പുറം നേർച്ചയും വിവിധ മതപരിപാടികളും ഇവിടെ നടത്തപ്പെടുന്നു.",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mamburam+Maqam+Shareef+Tirurangadi+Malappuram+Kerala",
+      "createdBy": "Salahudheen",
+      "createdAt": "2026-10-29T07:00:00.000Z",
+      "updatedAt": "2026-10-29T07:00:00.000Z",
       "status": "active"
     }
   ]
