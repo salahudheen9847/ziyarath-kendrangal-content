@@ -120,6 +120,16 @@
       },
       "path": "punjab/ziyaraths.json",
       "count": 15
+    },
+    {
+      "id": "odisha_northeast",
+      "name": {
+        "malayalam": "ഒഡീഷ & ആസാം (നോർത്ത് ഈസ്റ്റ്)",
+        "english": "Odisha & Assam (NE)",
+        "arabic": "أوديشا وآسام"
+      },
+      "path": "northeast/ziyaraths.json",
+      "count": 15
     }
   ]
 }
