@@ -160,6 +160,16 @@
       },
       "path": "uttarakhand/ziyaraths.json",
       "count": 15
+    },
+    {
+      "id": "jharkhand_chhattisgarh_islands",
+      "name": {
+        "malayalam": "ജാർഖണ്ഡ്, ഛത്തീസ്ഗഢ്, ഗോവ & ദ്വീപുകൾ",
+        "english": "Jharkhand, CG, Goa & Islands",
+        "arabic": "جهارخاند وتشهاتيسغار وغوا والجزر"
+      },
+      "path": "islands_central/ziyaraths.json",
+      "count": 15
     }
   ]
 }
