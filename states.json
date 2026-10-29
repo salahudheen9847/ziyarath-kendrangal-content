@@ -80,6 +80,16 @@
       },
       "path": "lakshadweep/ziyaraths.json",
       "count": 15
+    },
+    {
+      "id": "kashmir",
+      "name": {
+        "malayalam": "ജമ്മു & കശ്മീർ",
+        "english": "Jammu & Kashmir",
+        "arabic": "جامو وكشمير"
+      },
+      "path": "kashmir/ziyaraths.json",
+      "count": 15
     }
   ]
 }
