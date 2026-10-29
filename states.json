@@ -60,6 +60,16 @@
       },
       "path": "northindia/ziyaraths.json",
       "count": 15
+    },
+    {
+      "id": "gujarat",
+      "name": {
+        "malayalam": "ഗുജറാത്ത്",
+        "english": "Gujarat",
+        "arabic": "غوجارات"
+      },
+      "path": "gujarat/ziyaraths.json",
+      "count": 15
     }
   ]
 }
