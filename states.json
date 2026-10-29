@@ -90,6 +90,16 @@
       },
       "path": "kashmir/ziyaraths.json",
       "count": 15
+    },
+    {
+      "id": "eastindia",
+      "name": {
+        "malayalam": "ബംഗാൾ & ബിഹാർ",
+        "english": "Bengal & Bihar",
+        "arabic": "البنغال وبهار"
+      },
+      "path": "eastindia/ziyaraths.json",
+      "count": 15
     }
   ]
 }
