@@ -70,6 +70,16 @@
       },
       "path": "gujarat/ziyaraths.json",
       "count": 15
+    },
+    {
+      "id": "lakshadweep",
+      "name": {
+        "malayalam": "ലക്ഷദ്വീപ്",
+        "english": "Lakshadweep",
+        "arabic": "لاكشادويب"
+      },
+      "path": "lakshadweep/ziyaraths.json",
+      "count": 15
     }
   ]
 }
