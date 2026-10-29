@@ -27,6 +27,19 @@
       "createdAt": "2026-10-29T07:00:00.000Z",
       "updatedAt": "2026-10-29T07:00:00.000Z",
       "status": "active"
-    }
+    },
+    {
+  "id": "1793257300000",
+  "name": "നിലമുട്ടം മഖാം മസ്ജിദ്",
+  "district": "കണ്ണൂർ",
+  "place": "നിലമുട്ടം, ഇരിക്കൂർ (Nilamuttam, Irikkur)",
+  "address": "Nilamuttam Maqam Masjid, SH 36, Irikkur, Kannur, Kerala - 670593",
+  "description": "നിലമുട്ടം മഖാം മസ്ജിദ് കണ്ണൂർ ജില്ലയിലെ ഇരിക്കൂർ പ്രദേശത്ത് സ്ഥിതി ചെയ്യുന്ന മതകേന്ദ്രമാണ്. നിലമുട്ടം പ്രദേശത്തെ പ്രധാനപ്പെട്ട മസ്ജിദുകളിലൊന്നായ ഇത് വിശ്വാസികൾക്ക് പ്രാർത്ഥനയ്ക്കും ആത്മീയ സന്ദർശനത്തിനുമുള്ള സ്ഥലമാണ്.",
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Nilamuttam+Maqam+Masjid+Irikkur+Kannur+Kerala",
+  "createdBy": "Salahudheen",
+  "createdAt": "2026-10-29T07:00:00.000Z",
+  "updatedAt": "2026-10-29T07:00:00.000Z",
+  "status": "active"
+}
   ]
 }
