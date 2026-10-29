@@ -30,6 +30,16 @@
       },
       "path": "tamilnadu/ziyaraths.json",
       "count": 15
+    },
+    {
+      "id": "andhra",
+      "name": {
+        "malayalam": "ആന്ധ്ര & തെലങ്കാന",
+        "english": "Andhra & Telangana",
+        "arabic": "أندرا وتيلانجانا"
+      },
+      "path": "andhra/ziyaraths.json",
+      "count": 15
     }
   ]
 }
