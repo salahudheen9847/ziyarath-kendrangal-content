@@ -150,6 +150,16 @@
       },
       "path": "uttarpradesh/ziyaraths.json",
       "count": 15
+    },
+    {
+      "id": "uttarakhand_himalayas",
+      "name": {
+        "malayalam": "ഉത്തരാഖണ്ഡ് & ഹിമാചൽ",
+        "english": "Uttarakhand & Himachal",
+        "arabic": "أوتاراخند وهيماتشال"
+      },
+      "path": "uttarakhand/ziyaraths.json",
+      "count": 15
     }
   ]
 }
