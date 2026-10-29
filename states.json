@@ -20,6 +20,16 @@
       },
       "path": "karnataka/ziyaraths.json",
       "count": 15
+    },
+    {
+      "id": "tamilnadu",
+      "name": {
+        "malayalam": "തമിഴ്‌നാട്",
+        "english": "Tamil Nadu",
+        "arabic": "تاميل نادو"
+      },
+      "path": "tamilnadu/ziyaraths.json",
+      "count": 15
     }
   ]
 }
