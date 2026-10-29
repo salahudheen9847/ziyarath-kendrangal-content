@@ -100,6 +100,16 @@
       },
       "path": "eastindia/ziyaraths.json",
       "count": 15
+    },
+    {
+      "id": "madhyapradesh",
+      "name": {
+        "malayalam": "മധ്യപ്രദേശ്",
+        "english": "Madhya Pradesh",
+        "arabic": "ماديا براديش"
+      },
+      "path": "madhyapradesh/ziyaraths.json",
+      "count": 15
     }
   ]
 }
