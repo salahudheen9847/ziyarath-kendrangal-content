@@ -140,6 +140,16 @@
       },
       "path": "rajasthan/ziyaraths.json",
       "count": 15
+    },
+    {
+      "id": "uttarpradesh",
+      "name": {
+        "malayalam": "ഉത്തർപ്രദേശ്",
+        "english": "Uttar Pradesh",
+        "arabic": "أوتار براديش"
+      },
+      "path": "uttarpradesh/ziyaraths.json",
+      "count": 15
     }
   ]
 }
