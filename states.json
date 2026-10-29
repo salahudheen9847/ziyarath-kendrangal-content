@@ -40,6 +40,16 @@
       },
       "path": "andhra/ziyaraths.json",
       "count": 15
+    },
+    {
+      "id": "maharashtra",
+      "name": {
+        "malayalam": "മഹാരാഷ്ട്ര",
+        "english": "Maharashtra",
+        "arabic": "ماهاراشترا"
+      },
+      "path": "maharashtra/ziyaraths.json",
+      "count": 15
     }
   ]
 }
