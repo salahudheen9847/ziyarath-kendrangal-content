@@ -2,6 +2,43 @@
   "version": 1,
   "ziyaraths": [
     {
+      "id": "1793331800716",
+      "state": "kerala",
+      "name": {
+        "malayalam": "ചിത്താരി",
+        "english": "Chithari",
+        "arabic": "تشيتاري"
+      },
+      "district": {
+        "malayalam": "ksaragod",
+        "english": "Ksaragod",
+        "arabic": "كساراغود"
+      },
+      "place": {
+        "malayalam": "ചിത്താരി",
+        "english": "Chithari",
+        "arabic": "تشيتاري"
+      },
+      "address": "kasaragod",
+      "description": {
+        "malayalam": "കസ്രഗോഡ്",
+        "english": "kasragod",
+        "arabic": "كاسراغود"
+      },
+      "nameEnglish": "Chithari",
+      "nameArabic": "تشيتاري",
+      "districtEnglish": "Ksaragod",
+      "districtArabic": "كساراغود",
+      "placeEnglish": "Chithari",
+      "placeArabic": "تشيتاري",
+      "descriptionEnglish": "kasragod",
+      "descriptionArabic": "كاسراغود",
+      "createdBy": "salahudheen",
+      "createdAt": "2026-10-30T03:43:20.716Z",
+      "updatedAt": "2026-10-30T03:43:20.716Z",
+      "status": "active"
+    },
+    {
       "id": "1793257171720",
       "state": "kerala",
       "name": "മടവൂർ സി.എം. മഖാം",
