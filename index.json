@@ -2,6 +2,49 @@
   "version": 1,
   "ziyaraths": [
     {
+      "id": "1793337169288",
+      "state": "kerala",
+      "name": {
+        "malayalam": "സമർഖണ്ട് വാലിയുള്ളാഹി",
+        "english": "Samarqand Valiyullahi",
+        "arabic": "سمرقند فاليولاي"
+      },
+      "district": {
+        "malayalam": "ksaragod",
+        "english": "Ksaragod",
+        "arabic": "كساراغود"
+      },
+      "place": {
+        "malayalam": "കാഞ്ചനഗഡ്",
+        "english": "Kanjahanagad",
+        "arabic": "كانجاهاناغاد"
+      },
+      "address": {
+        "malayalam": "ചിത്താരി",
+        "english": "chithari",
+        "arabic": "تشيتاري"
+      },
+      "description": {
+        "malayalam": "നിരവതി ഖരാമത്ത്",
+        "english": "Niravathii qaaramath",
+        "arabic": "Niravathii qaaramath"
+      },
+      "nameEnglish": "Samarqand Valiyullahi",
+      "nameArabic": "سمرقند فاليولاي",
+      "districtEnglish": "Ksaragod",
+      "districtArabic": "كساراغود",
+      "placeEnglish": "Kanjahanagad",
+      "placeArabic": "كانجاهاناغاد",
+      "addressEnglish": "chithari",
+      "addressArabic": "تشيتاري",
+      "descriptionEnglish": "Niravathii qaaramath",
+      "descriptionArabic": "Niravathii qaaramath",
+      "createdBy": "SALAHUDHEEN K K",
+      "createdAt": "2026-10-30T05:12:49.288Z",
+      "updatedAt": "2026-10-30T05:12:49.288Z",
+      "status": "active"
+    },
+    {
       "id": "1793257171720",
       "state": "kerala",
       "name": "മടവൂർ സി.എം. മഖാം",
