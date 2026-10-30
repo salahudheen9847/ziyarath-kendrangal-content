@@ -2657,11 +2657,13 @@
       "description": "ലക്ഷദ്വീപിലെ ഏറ്റവും പ്രധാനപ്പെട്ട ആത്മീയ സിരാകേന്ദ്രം. ഹിജ്റ 41-ൽ മദീനയിൽ നിന്നും പ്രവാചക നിർദ്ദേശപ്രകാരം ലക്ഷദ്വീപിലേക്ക് കപ്പൽ കയറി ഇസ്ലാം മതപ്രബോധനം നടത്തിയ ഒന്നാം ഖലീഫ ഹസ്രത്ത് അബൂബക്കർ സിദ്ദീഖിന്റെ (റ) പേരമകൻ ഹസ്രത്ത് ഉബൈദുല്ലാഹി തങ്ങളുടെ വിശുദ്ധ മഖാം. ആൻഡ്രോത്ത് ജുമുഅ മസ്ജിദിനോട് ചേർന്നാണ് ഈ പുണ്യ മഖ്ബറ സ്ഥിതി ചെയ്യുന്നത്.",
       "descriptionEnglish": "The paramount spiritual sanctuary of Lakshadweep, enshrining Hazrat Ubaidullah, grandson of Caliph Abu Bakr Siddiq, who introduced Islam to the islands in 41 AH (7th century CE).",
       "descriptionArabic": "المزار المركزي الأعظم في جزر لاكشادويب، مرقد الفاتح الإسلامي للجزر الشيخ عبيد الله حفيد الخليفة أبي بكر الصديق رضي الله عنهما.",
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ubaidullah+Dargah+Juma+Masjid+Andrott+Island+Lakshadweep",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=10.8167,73.6833",
       "createdBy": "Salahudheen",
       "createdAt": "2026-10-29T09:30:00.000Z",
       "updatedAt": "2026-10-29T09:30:00.000Z",
-      "status": "active"
+      "status": "active",
+      "latitude": 10.8167,
+      "longitude": 73.6833
     },
     {
       "id": "1793272100000",
@@ -2679,11 +2681,13 @@
       "description": "ലക്ഷദ്വീപിന്റെ തലസ്ഥാനമായ കവരത്തിയിലെ ഏറ്റവും പ്രശസ്തമായ പള്ളിയും തീർത്ഥാടന കേന്ദ്രവും. പതിനേഴാം നൂറ്റാണ്ടിലെ പ്രമുഖ സൂഫി വലിയ്യ് ശൈഖ് മുഹമ്മദ് ഖാസിം വലിയുല്ലാഹിയുടെ (തിടിൽ ഖാസിം തങ്ങൾ) മഖാം. തേക്ക് മരത്തിൽ തീർത്ത അത്ഭുതകരമായ കൊത്തുപണികൾ നിറഞ്ഞ ഈ പള്ളിയിലെ കിണറിലെ വെള്ളത്തിന് ഔഷധഗുണമുണ്ടെന്ന് വിശ്വസിക്കപ്പെടുന്നു.",
       "descriptionEnglish": "Most revered architectural and spiritual landmark in Kavaratti, featuring the tomb of 17th-century Sufi master Sheikh Mohammad Qasim, world-renowned for exquisite teak ceiling woodcarvings and healing well.",
       "descriptionArabic": "أشهر معالم كافاراتي التاريخية والروحية، يضم ضريح الولي الصالح الشيخ محمد قاسم (القرن السابع عشر) المشهور بزخارفه الخشبية البديعة وبئره المباركة.",
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ujra+Mosque+Kavaratti+Lakshadweep",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=10.5667,72.6417",
       "createdBy": "Salahudheen",
       "createdAt": "2026-10-29T09:31:00.000Z",
       "updatedAt": "2026-10-29T09:31:00.000Z",
-      "status": "active"
+      "status": "active",
+      "latitude": 10.5667,
+      "longitude": 72.6417
     },
     {
       "id": "1793272200000",
@@ -2701,11 +2705,13 @@
       "description": "കവരത്തിയിലെ അതിപുരാതന വലിയ ജുമുഅത്ത് പള്ളിയും അതിനോടനുബന്ധിച്ചുള്ള സിയാറത്ത് കേന്ദ്രവും. ദ്വീപിലേക്ക് ദീൻ എത്തിച്ച ആദ്യകാല സാദാത്തുക്കളും ആത്മീയ നേതാക്കളും അന്ത്യവിശ്രമം കൊള്ളുന്ന പവിത്ര കേന്ദ്രം.",
       "descriptionEnglish": "Ancient grand Friday mosque of Kavaratti Island housing the tombs of early missionary saints who guided the islanders in Islamic jurisprudence and spirituality.",
       "descriptionArabic": "الجامع الكبير التاريخي في جزيرة كافاراتي، مرقد أوائل العلماء والدعاة الصالحين الذين نشروا العلم والبركة في الجزيرة.",
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Juma+Masjid+Kavaratti+Island+Lakshadweep",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=10.5667,72.6417",
       "createdBy": "Salahudheen",
       "createdAt": "2026-10-29T09:32:00.000Z",
       "updatedAt": "2026-10-29T09:32:00.000Z",
-      "status": "active"
+      "status": "active",
+      "latitude": 10.5667,
+      "longitude": 72.6417
     },
     {
       "id": "1793272300000",
@@ -2723,11 +2729,13 @@
       "description": "പാരമ്പര്യവും സംസ്കാരവും നിറഞ്ഞ അമിനി ദ്വീപിലെ ഏറ്റവും പ്രധാനപ്പെട്ട സിയാറത്ത് കേന്ദ്രം. സൂഫി പണ്ഡിതനും വലിയ്യുമായിരുന്ന ഹസ്രത്ത് അഹ്മദ് തങ്ങളുടെ വിശുദ്ധ മഖാം ശരീഫ്. രോഗശമനത്തിനും പ്രാർത്ഥനാ സഫലീകരണത്തിനുമായി ദ്വീപുവാസികൾ സന്ദർശിക്കുന്ന കേന്ദ്രം.",
       "descriptionEnglish": "Chief spiritual shrine of historic Amini Island, enshrining saint-scholar Hazrat Ahmed Thangal, revered by islanders across generations for spiritual guidance.",
       "descriptionArabic": "المقام الأبرز في جزيرة أميني العريقة للولي الصالح والعالم الزاهد حضرة أحمد ثنغل قدس سره.",
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Juma+Masjid+Amini+Island+Lakshadweep",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=11.125,72.73",
       "createdBy": "Salahudheen",
       "createdAt": "2026-10-29T09:33:00.000Z",
       "updatedAt": "2026-10-29T09:33:00.000Z",
-      "status": "active"
+      "status": "active",
+      "latitude": 11.125,
+      "longitude": 72.73
     },
     {
       "id": "1793272400000",
@@ -2745,11 +2753,13 @@
       "description": "ലക്ഷദ്വീപിലെ പ്രവേശന കവാടമായ വിമാനത്താവളമുള്ള അഗത്തി ദ്വീപിലെ അതിപുരാതനമായ മുഹിയുദ്ദീൻ പള്ളിയും അനുബന്ധ മഖാമും. ഖാദിരിയ്യ സൂഫി സരണിയുമായി ബന്ധപ്പെട്ട ആത്മീയ പ്രാർത്ഥനകളും റാത്തീബുകളും നടക്കുന്ന പ്രധാന കേന്ദ്രം.",
       "descriptionEnglish": "Ancient coastal mosque and maqam in Agatti Island, historic center for Qadiriyya spiritual gatherings, ratheebs, and prayers of seafaring fishermen.",
       "descriptionArabic": "المسجد الأثري العريق والمقام المبارك في جزيرة أغاتي، مركز الأذكار والرواتب القادرية ودعاء الصيادين والمسافرين.",
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mohiyuddin+Mosque+Agatti+Island+Lakshadweep",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=10.8533,72.1947",
       "createdBy": "Salahudheen",
       "createdAt": "2026-10-29T09:34:00.000Z",
       "updatedAt": "2026-10-29T09:34:00.000Z",
-      "status": "active"
+      "status": "active",
+      "latitude": 10.8533,
+      "longitude": 72.1947
     },
     {
       "id": "1793272500000",
@@ -2767,11 +2777,13 @@
       "description": "കൽപേനി ദ്വീപിലെ ആദരണീയനായ സൂഫി വര്യൻ ഹസ്രത്ത് ഹബീബുല്ലാഹ് തങ്ങളുടെ വിശുദ്ധ സമാധി കേന്ദ്രം. കൽപേനിയിലെ തടാകക്കരയോട് ചേർന്ന് സ്ഥിതി ചെയ്യുന്ന ഈ കേന്ദ്രത്തിൽ ദ്വീപുനിവാസികൾ പ്രാർത്ഥനകൾക്കായി ഒരുമിച്ചുകൂടുന്നു.",
       "descriptionEnglish": "Sacred coastal shrine of Hazrat Habibullah Thangal on Kalpeni Island, revered for deep asceticism, spiritual wisdom, and miracles recorded in island oral traditions.",
       "descriptionArabic": "المقام الساحلي الجميل لحضرة الولي حبيب الله ثنغل في جزيرة كالبيني الهادئة، مقصود للتبرك والدعاء.",
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Juma+Masjid+Kalpeni+Island+Lakshadweep",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=10.0833,73.65",
       "createdBy": "Salahudheen",
       "createdAt": "2026-10-29T09:35:00.000Z",
       "updatedAt": "2026-10-29T09:35:00.000Z",
-      "status": "active"
+      "status": "active",
+      "latitude": 10.0833,
+      "longitude": 73.65
     },
     {
       "id": "1793272600000",
@@ -2789,11 +2801,13 @@
       "description": "ആൻഡ്രോത്തിലെ പ്രമുഖ സാദാത്ത് കുടുംബങ്ങളുടെ പൂർവ്വികനും ആത്മീയ ജ്ഞാനിയുമായിരുന്ന ഹസ്രത്ത് ശൈഖ് അഹ്മദ് സാദാത്തിന്റെ മഖാം ശരീഫ്. ആൻഡ്രോത്തിലെ സിയാറത്ത് യാത്രകളിൽ പ്രധാനപ്പെട്ട ഒരു സന്ദർശന കേന്ദ്രം.",
       "descriptionEnglish": "Prominent Sadath lineage shrine on Andrott Island, honoring Hazrat Sheikh Ahmed Sadath, a master of religious sciences and spiritual counseling.",
       "descriptionArabic": "مرقد الإمام الشيخ أحمد السادات في جزيرة أندروت، أحد أعيان السادة الأشراف والعلماء الأفاضل في تاريخ الجزر.",
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Andrott+Island+Lakshadweep+Dargah",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=10.8167,73.6833",
       "createdBy": "Salahudheen",
       "createdAt": "2026-10-29T09:36:00.000Z",
       "updatedAt": "2026-10-29T09:36:00.000Z",
-      "status": "active"
+      "status": "active",
+      "latitude": 10.8167,
+      "longitude": 73.6833
     },
     {
       "id": "1793272700000",
@@ -2811,11 +2825,13 @@
       "description": "ലക്ഷദ്വീപിലെ ഏറ്റവും ചെറിയ ജനവാസ ദ്വീപായ ബിത്രയിലെ അതിപ്രസിദ്ധമായ സിയാറത്ത് കേന്ദ്രം. മാലിക് മൊയ്തീൻ വലിയുല്ലാഹിയുടെ വിശുദ്ധ മഖാം. കടൽക്ഷോഭങ്ങളിൽ നിന്നും കപ്പൽയാത്രകളിൽ നിന്നും സംരക്ഷണം തേടി നാവികരും മത്സ്യതൊഴിലാളികളും ഭക്തിയോടെ എത്തുന്ന കേന്ദ്രം.",
       "descriptionEnglish": "Famed shrine on the smallest inhabited coral atoll of Bitra, dedicated to Malik Moidin, an ancient Arab saint whose blessings seafaring fishermen invoke against turbulent ocean storms.",
       "descriptionArabic": "المزار البحري الفريد في أصغر جزر لاكشادويب المأهولة (جزيرة بيترا) لولي الله الصالح مالك محيي الدين، حامي الملاحة والصيادين.",
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bitra+Island+Lakshadweep+Shrine",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=11.6028,72.3044",
       "createdBy": "Salahudheen",
       "createdAt": "2026-10-29T09:37:00.000Z",
       "updatedAt": "2026-10-29T09:37:00.000Z",
-      "status": "active"
+      "status": "active",
+      "latitude": 11.6028,
+      "longitude": 72.3044
     },
     {
       "id": "1793272800000",
@@ -2833,11 +2849,13 @@
       "description": "നീളമേറിയ കടൽത്തീരങ്ങളുള്ള മനോഹരമായ കടമത്ത് ദ്വീപിലെ പുരാതന ജുമുഅ പള്ളിയും സൂഫി സമാധി കേന്ദ്രവും. ദ്വീപിന്റെ ആത്മീയ ഉണർവിന് കാരണക്കാരായ പൂർവ്വിക പണ്ഡിതരുടെ മഖാമുകൾ ഇവിടെ സ്ഥിതി ചെയ്യുന്നു.",
       "descriptionEnglish": "Historic Friday mosque and resting place of foundational Islamic teachers on Kadmat Island, known for its pristine marine lagoon and tranquil spiritual ambiance.",
       "descriptionArabic": "الجامع القديم ومقام علماء جزيرة كادمات ذات الشواطئ الساحرة، ملتقى أهالي الجزيرة للعبادة والزيارة والتبرك.",
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Juma+Masjid+Kadmat+Island+Lakshadweep",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=11.2333,72.7833",
       "createdBy": "Salahudheen",
       "createdAt": "2026-10-29T09:38:00.000Z",
       "updatedAt": "2026-10-29T09:38:00.000Z",
-      "status": "active"
+      "status": "active",
+      "latitude": 11.2333,
+      "longitude": 72.7833
     },
     {
       "id": "1793272900000",
@@ -2855,11 +2873,13 @@
       "description": "ലക്ഷദ്വീപിന്റെ വടക്കേ അറ്റത്തുള്ള ചെത്‌ലാത്ത് ദ്വീപിലെ പ്രധാന സിയാറത്ത് കേന്ദ്രം. സൂഫി വലിയ്യ് ബീരാൻ തങ്ങളുടെ പവിത്ര മഖാം. കപ്പൽ യാത്രക്കാരുടെയും ദ്വീപുവാസികളുടെയും ആദരവ് നേടിയ പുണ്യ സങ്കേതം.",
       "descriptionEnglish": "Northernmost island shrine situated on Chetlat Island, honoring the saintly Beeran Thangal, guardian figure of the northern reefs.",
       "descriptionArabic": "المقام الشمالي الأبرز في جزيرة تشيتلات لولي الله بيران ثنغل، حارس البحارة وقائد المسيرة الروحية بالجزيرة.",
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chetlat+Island+Lakshadweep+Mosque",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=11.6833,72.7",
       "createdBy": "Salahudheen",
       "createdAt": "2026-10-29T09:39:00.000Z",
       "updatedAt": "2026-10-29T09:39:00.000Z",
-      "status": "active"
+      "status": "active",
+      "latitude": 11.6833,
+      "longitude": 72.7
     },
     {
       "id": "1793273000000",
@@ -2877,11 +2897,13 @@
       "description": "ചരിത്രപ്രസിദ്ധമായ കോഴിക്കോട്–ലക്ഷദ്വീപ് വ്യാപാര പാതയിലെ പ്രധാന ദ്വീപായ കിൽത്താനിലെ സൂഫി കേന്ദ്രം. ദ്വീപിൽ സേവനമനുഷ്ഠിച്ച പുരാതന ശൈഖുമാരുടെ പവിത്ര മഖ്ബറ.",
       "descriptionEnglish": "Venerable shrine on Kiltan Island on the historic trade route connecting Calicut to the Arabian Gulf, honoring holy mendicant saints who blessed the island.",
       "descriptionArabic": "المقام التاريخي في جزيرة كيلتان الواقعة على طريق التجارة البحرية القديم مع كوزيكود ومليبار، مزار المشايخ الصالحين.",
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kiltan+Island+Lakshadweep+Mosque",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=11.4833,73",
       "createdBy": "Salahudheen",
       "createdAt": "2026-10-29T09:40:00.000Z",
       "updatedAt": "2026-10-29T09:40:00.000Z",
-      "status": "active"
+      "status": "active",
+      "latitude": 11.4833,
+      "longitude": 73
     },
     {
       "id": "1793273100000",
@@ -2899,11 +2921,13 @@
       "description": "ലക്ഷദ്വീപിന്റെ തെക്കേ അറ്റത്ത് മാലിദ്വീപ് സംസ്കാരത്തോട് ചേർന്നുകിടക്കുന്ന മിനിക്കോയിയിലെ (മാലിക്) പ്രധാന ജുമുഅ പള്ളിയും ചരിത്ര പ്രസിദ്ധമായ ഔലിയാക്കളുടെ മഖാമും. തനത് മഹൽ ഭാഷയും സംസ്കാരവുമുള്ള ജനതയുടെ ആത്മീയ സിരാകേന്ദ്രം.",
       "descriptionEnglish": "Southernmost historic sanctuary of Lakshadweep on Minicoy Island (Maliku), bearing cultural affinity with the Maldives and holding tombs of revered early Islamic scholars.",
       "descriptionArabic": "المركز الإسلامي الأقدم والأعظم في جزيرة مينيكوي (ماليكو) جنوب الأرخبيل، مهد الدعوة الإسلامية والعلماء الأوائل.",
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Juma+Masjid+Minicoy+Island+Lakshadweep",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=8.2833,73.05",
       "createdBy": "Salahudheen",
       "createdAt": "2026-10-29T09:41:00.000Z",
       "updatedAt": "2026-10-29T09:41:00.000Z",
-      "status": "active"
+      "status": "active",
+      "latitude": 8.2833,
+      "longitude": 73.05
     },
     {
       "id": "1793273200000",
@@ -2921,11 +2945,13 @@
       "description": "കവരത്തിയിലെ തീരത്തോട് ചേർന്നു സ്ഥിതി ചെയ്യുന്ന ബഹുമാന്യനായ ബാവാ തങ്ങൾ വലിയുല്ലാഹിയുടെ മഖാം ശരീഫ്. ആത്മീയ സാന്ത്വനത്തിനും രോഗമുക്തിക്കുമായി ദ്വീപുവാസികൾ സന്ദർശിക്കുന്ന പുണ്യകേന്ദ്രം.",
       "descriptionEnglish": "Beloved coastal sanctuary of Bawa Thangal on Kavaratti Island, frequented by families and spiritual seekers seeking peace and healing.",
       "descriptionArabic": "المقام الساحلي المحبوب لحضرة باوا ثنغل في جزيرة كافاراتي، مقصد العائلات والزوار للتبرك والسكينة.",
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kavaratti+Island+Lakshadweep+Dargah",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=10.5667,72.6417",
       "createdBy": "Salahudheen",
       "createdAt": "2026-10-29T09:42:00.000Z",
       "updatedAt": "2026-10-29T09:42:00.000Z",
-      "status": "active"
+      "status": "active",
+      "latitude": 10.5667,
+      "longitude": 72.6417
     },
     {
       "id": "1793273300000",
@@ -2943,11 +2969,13 @@
       "description": "ആൻഡ്രോത്തിലെ അതിപുരാതനമായ വലിയ പള്ളിയും അനുബന്ധ മഖ്ബറയും. ഉബൈദുല്ലാഹി തങ്ങളുടെ സന്ദേശം ഉൾക്കൊണ്ട് ദീനി രംഗത്ത് പ്രവർത്തിച്ച പ്രാചീന മഹാരഥന്മാർ അന്ത്യവിശ്രമം കൊള്ളുന്ന പവിത്ര സങ്കേതം.",
       "descriptionEnglish": "Ancient Valiya Palli (Grand Mosque) complex on Andrott Island, preserving the graves of early saintly disciples of Hazrat Ubaidullah.",
       "descriptionArabic": "المسجد الكبير العريق (فاليا بلي) ومقبرة أوائل تلاميذ الشيخ عبيد الله الصالحين في جزيرة أندروت التاريخية.",
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Andrott+Valiya+Palli+Lakshadweep",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=10.8167,73.6833",
       "createdBy": "Salahudheen",
       "createdAt": "2026-10-29T09:43:00.000Z",
       "updatedAt": "2026-10-29T09:43:00.000Z",
-      "status": "active"
+      "status": "active",
+      "latitude": 10.8167,
+      "longitude": 73.6833
     },
     {
       "id": "1793273400000",
@@ -2965,11 +2993,13 @@
       "description": "അഗത്തി ദ്വീപിലെ കടൽത്തീരത്തോട് ചേർന്നു സ്ഥിതി ചെയ്യുന്ന ഖാദിരിയ്യ സൂഫി മഖാം. ദ്വീപിലെ ആത്മീയ പാരമ്പര്യവും റാത്തീബ് ചടങ്ങുകളും സജീവമായി നിലനിൽക്കുന്ന പ്രാർത്ഥനാ സങ്കേതം.",
       "descriptionEnglish": "Tranquil Qadiri Sufi shrine on the southern shore of Agatti Island, continuing traditional dhikr and ratheeb assemblies.",
       "descriptionArabic": "المقام القادري الهادئ على الساحل الجنوبي لجزيرة أغاتي، ملتقى حلقات الذكر والدعاء والتوسل الصالح.",
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Agatti+Island+Lakshadweep+Mosque",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=10.8533,72.1947",
       "createdBy": "Salahudheen",
       "createdAt": "2026-10-29T09:44:00.000Z",
       "updatedAt": "2026-10-29T09:44:00.000Z",
-      "status": "active"
+      "status": "active",
+      "latitude": 10.8533,
+      "longitude": 72.1947
     },
     {
       "id": "1793274000000",
