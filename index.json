@@ -2,6 +2,49 @@
   "version": 1,
   "ziyaraths": [
     {
+      "id": "1793338182216",
+      "state": "kerala",
+      "name": {
+        "malayalam": "സമർഖന്ത് വലിയല്ലാഹു",
+        "english": "Samarkand Wali Allahu",
+        "arabic": "سامرقانث فاليالله"
+      },
+      "district": {
+        "malayalam": "കാസർഗോഡ്",
+        "english": "Kasaragod",
+        "arabic": "كاساراجود"
+      },
+      "place": {
+        "malayalam": "കാഞ്ഞങ്ങാട്",
+        "english": "Kanhangad",
+        "arabic": "كانهانجاد"
+      },
+      "address": {
+        "malayalam": "ചിത്താരി",
+        "english": "Chitari",
+        "arabic": "تشيثاري"
+      },
+      "description": {
+        "malayalam": "നിരവടി കാരമത്തുകൾ",
+        "english": "Rows of Caramaths",
+        "arabic": "نيرافادي كاراماتوكال"
+      },
+      "nameEnglish": "Samarkand Wali Allahu",
+      "nameArabic": "سامرقانث فاليالله",
+      "districtEnglish": "Kasaragod",
+      "districtArabic": "كاساراجود",
+      "placeEnglish": "Kanhangad",
+      "placeArabic": "كانهانجاد",
+      "addressEnglish": "Chitari",
+      "addressArabic": "تشيثاري",
+      "descriptionEnglish": "Rows of Caramaths",
+      "descriptionArabic": "نيرافادي كاراماتوكال",
+      "createdBy": "SALAHUDHEEN KK",
+      "createdAt": "2026-10-30T05:29:42.216Z",
+      "updatedAt": "2026-10-30T05:29:42.216Z",
+      "status": "active"
+    },
+    {
       "id": "1793257171720",
       "state": "kerala",
       "name": "മടവൂർ സി.എം. മഖാം",
